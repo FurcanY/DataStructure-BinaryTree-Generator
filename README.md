@@ -1,5 +1,5 @@
 
-# DataStructure BinaryTree  
+# DataStructure BinaryTree  Generator
 
 ### *Bu programda istenilen sayı kadar, rastgele BinaryTree oluşturulur ve bu BinaryTree'lerin şemasını şekillendirerek console'da gösterir.*
 
